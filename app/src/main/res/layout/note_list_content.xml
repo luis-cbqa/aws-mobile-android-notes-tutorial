@@ -46,7 +46,7 @@
             android:layout_marginTop="-25dp"
             android:text="Sample Title"
             android:textAppearance="@android:style/TextAppearance.Material.Title"
-            app:layout_constraintTop_toBottomOf="@+id/textView"
+
             android:layout_marginLeft="8dp"
             app:layout_constraintLeft_toLeftOf="parent" />
     </android.support.constraint.ConstraintLayout>
